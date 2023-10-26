@@ -35,7 +35,7 @@ a{
   align-items: center;
   padding: 5px 20px;
   background-color: rgba(222, 222, 172, 0.794); 
- color: white; 
+  color: white; 
 }
 
 .navbar .logo{
@@ -98,7 +98,7 @@ a{
   align-items: center;
   justify-content: space-around;
   padding: 0 3%;
-  background: url('/imagenes/codigo.jpg') no-repeat;
+  background: url('./imagenes/codigo.jpg') no-repeat;
   height: 88rem;
   background-size: cover;
   background-position: center;
